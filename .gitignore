@@ -1,0 +1,14 @@
+.DS_Store
+
+node_modules/
+
+.idea/
+
+
+package-lock.json
+
+*.log
+
+*.bak
+
+upload_tmp/
